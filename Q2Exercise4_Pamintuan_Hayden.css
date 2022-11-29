@@ -1,0 +1,35 @@
+img {
+height: 300px;
+border-radius: 33.33%;
+padding: 20px;
+opacity: .75;
+}
+
+img:hover{
+	opacity: 1;
+}
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 100px;
+	font-family: Alice;
+}
+
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
+
+table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.profile {
+	border-radius: 50%;
+	height: 50px;
+	border-style: inset;
+	border-color: yellow;
+	border-width: 5px;
+}
